@@ -1,0 +1,9 @@
+Package: com.chikuwa.batteryiconwhilecharging
+Name: Battery Icon Only While Charging
+Depends: mobilesubstrate
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: Displays the battery Icon Only While Charging the device.
+Maintainer: Chikuwa
+Author: Chikuwa
+Section: Tweaks
